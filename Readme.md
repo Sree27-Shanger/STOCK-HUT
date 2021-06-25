@@ -56,6 +56,7 @@ Please make sure to update tests as appropriate.
 
 ## Issues
 [![GitHub Issues](https://img.shields.io/github/issues/Sree27-Shanger/STOCK-HUT.svg?style=flat&label=Issues&maxAge=2592000)](https://github.com/Sree27-Shanger/STOCK-HUT/issues)
+
 If you face any issue, you can create a new issue in the Issues Tab and I will be glad to help you out.
 
 ## License
