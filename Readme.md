@@ -29,7 +29,6 @@ STOCK-HUT uses a number of open source projects to work properly:
 
 [MYSQL](https://www.mysql.com/):-MySQL is an open-source relational database management system
 
-
 ## Installation
 1. Download the [NetBeans](https://netbeans.apache.org/download/index.html)
 2. Extract it to any folder on your system 
@@ -49,11 +48,15 @@ You can also follow my GitHub Profile to stay updated about my latest projects: 
    [![LinkedIn Link](https://img.shields.io/badge/Connect-Achal-blue.svg?logo=linkedin&longCache=true&style=social&label=Follow)](https://www.linkedin.com/in/achal-n-240b5b1b8/)
 You can also follow my GitHub Profile to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-Achal-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/achal12)
 ## Contributions Welcome
-If you face any issue, you can create a new issue in the Issues Tab and I will be glad to help you out.
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
 
 
 ## Issues
 [![GitHub Issues](https://img.shields.io/github/issues/Sree27-Shanger/STOCK-HUT.svg?style=flat&label=Issues&maxAge=2592000)](https://github.com/Sree27-Shanger/STOCK-HUT/issues)
+If you face any issue, you can create a new issue in the Issues Tab and I will be glad to help you out.
 
 ## License
 [![MIT](https://img.shields.io/cocoapods/l/AFNetworking.svg?style=style&label=License&maxAge=2592000)](../master/LICENSE)
