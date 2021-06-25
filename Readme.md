@@ -26,6 +26,7 @@ NetBeans
 STOCK-HUT uses a number of open source projects to work properly:
 
 [JAVA](https://www.java.com/) :- Java is a high-level, class-based, object-oriented programming  language that is designed to have as few implementation dependencies as possible.
+
 [MYSQL](https://www.mysql.com/):-MySQL is an open-source relational database management system
 
 
