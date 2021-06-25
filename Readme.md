@@ -3,6 +3,7 @@
 ![GitHub Forks](https://img.shields.io/github/forks/Sree27-Shanger/STOCK-HUT.svg?style=social&label=Fork&maxAge=2592000)
 [![GitHub Issues](https://img.shields.io/github/issues/Sree27-Shanger/STOCK-HUT.svg?style=flat&label=Issues&maxAge=2592000)](https://github.com/Sree27-Shanger/STOCK-HUT/issues)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
+ 
  Vegetable Stock Management System(STOCK-HUT) is a DBMS project which is helpful for the businesses operate stores, where store owner keeps the records of purchase. And This project is also helpful for the customers for viewing the product details. This project eliminates the paperwork, human faults, manual delay and speed up the process.
 ## Roles
 - Store Owners(Admin)
