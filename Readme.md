@@ -6,12 +6,12 @@
  
  Vegetable Stock Management System(STOCK-HUT) is a DBMS project which is helpful for the businesses operate stores, where store owner keeps the records of purchase. And This project is also helpful for the customers for viewing the product details. This project eliminates the paperwork, human faults, manual delay and speed up the process.
  
-<img src="https://user-images.githubusercontent.com/47133316/123655462-9f7fd080-d84c-11eb-973b-d731b76795b1.PNG" width=500 height="350"/>  <img src="https://user-images.githubusercontent.com/47133316/123658345-42d1e500-d84f-11eb-86a4-be41c32b1878.PNG" width=500 height="350"/>
+<img src="https://user-images.githubusercontent.com/47133316/123655462-9f7fd080-d84c-11eb-973b-d731b76795b1.PNG" width=500 height="350"/>   <img src="https://user-images.githubusercontent.com/47133316/123658345-42d1e500-d84f-11eb-86a4-be41c32b1878.PNG" width=500 height="350"/>
 
-<img src="https://user-images.githubusercontent.com/47133316/123658353-45ccd580-d84f-11eb-8b20-aa0a6bda27c4.PNG" width=500 height="350"/>
-<img src="https://user-images.githubusercontent.com/47133316/123658377-4cf3e380-d84f-11eb-850f-a5a46ca866cf.PNG" width=500 height="350"/>
-<img src="https://user-images.githubusercontent.com/47133316/123658426-554c1e80-d84f-11eb-9133-3a7f73feab17.PNG" width=500 height="350"/>
-<img src="https://user-images.githubusercontent.com/47133316/123658441-5a10d280-d84f-11eb-9995-9f49fb6c7d04.PNG" width=500 height="350"/>
+<img src="https://user-images.githubusercontent.com/47133316/123658353-45ccd580-d84f-11eb-8b20-aa0a6bda27c4.PNG" width=500 height="350"/>   <img src="https://user-images.githubusercontent.com/47133316/123658377-4cf3e380-d84f-11eb-850f-a5a46ca866cf.PNG" width=500 height="350"/>
+
+<img src="https://user-images.githubusercontent.com/47133316/123658426-554c1e80-d84f-11eb-9133-3a7f73feab17.PNG" width=500 height="350"/>    <img src="https://user-images.githubusercontent.com/47133316/123658441-5a10d280-d84f-11eb-9995-9f49fb6c7d04.PNG" width=500 height="350"/>
+
 
 ## Roles
 - Store Owners(Admin)
